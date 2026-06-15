@@ -13,7 +13,35 @@ The dashboard tracks critical business metrics including Total Revenue, Total Pr
 
 This project demonstrates expertise in data analysis, business intelligence, dashboard design, data visualisation, and Excel reporting, showcasing the ability to transform raw data into meaningful insights that support strategic decision-making.
 
-**Key findings:**
+**Key Insights:** • The East region is the primary driver of revenue, contributing the largest share of total sales, indicating strong regional demand.
+
+• Headphones are the top-performing product, significantly outperforming other categories and representing a key revenue stream.
+
+• The overall profit margin remains strong at approximately 25%, reflecting efficient cost management and healthy profitability.
+
+• Sales performance varies across team members, with top performers generating substantially higher revenue, highlighting opportunities for performance optimization.
+
+• Accessories contribute the highest profit among categories, suggesting higher margins compared to other product groups.
+
+• A clear gap between revenue and profit across segments indicates potential areas to improve cost efficiency and maximize profitability.
+
+**Key findings:** • The East region is the highest revenue contributor  
+• Headphones generate the most sales among products  
+• Profit margins remain consistently above 25%  
+• Significant variation exists in salesperson performance  
 
 **Dashboard Overview:**
 ![Sales_Dashbaord](Sales_Dashbaord.png)
+
+
+# Project 2
+
+**Title:**
+
+**SQL Code:**
+
+**SQL Skills Used:**
+
+**Project Description:**
+
+**Technology used:** SQL Server
