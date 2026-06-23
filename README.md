@@ -112,6 +112,4 @@ VALUES
 ALTER TABLE [dbo].[Table_SQL_PRO]
 ADD AGE INT
 
-![Sales_Data.Sql](SQL_Project.png)
-
 DROP TABLE [dbo].[Table_SQL_PRO]
